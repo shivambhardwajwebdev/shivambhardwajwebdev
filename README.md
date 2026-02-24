@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Shivam Bhardwaj 👋
 
-<!--
-**shivambhardwajwebdev/shivambhardwajwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React | Next.js | Firebase  
+🎓 B.Tech CSE (2025–2029)  
+💡 Building premium digital experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS
+- Firebase, Firestore
+- PHP, MySQL
+- Git & GitHub
+
+---
+
+## 🔥 Featured Projects
+
+### 🌟 Zenith – AI Fashion Recommendation
+Personalized style recommendation system using Firebase Authentication & Firestore.
+
+### 🤖 Kongo Technologies
+Futuristic robotics company website with neon UI.
+
+### 🎨 Hero Sections
+Modern responsive hero section collection.
+
+---
+
+## 📊 GitHub Stats
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivambhardwajwebdev&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shivambhardwajwebdev&theme=radical)
+
+---
+
+## 📫 Connect With Me
+📧 shiva.bhardwaj.mks@gmail.com  
+🔗 LinkedIn  
