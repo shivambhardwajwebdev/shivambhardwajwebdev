@@ -31,12 +31,10 @@ Modern responsive hero section collection.
 
 ## 📊 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?user=shivambhardwajwebdev&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shivambhardwajwebdev&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=shivambhardwajwebdev&theme=radical)
-
 ---
 
 ## 📫 Connect With Me
 📧 shiva.bhardwaj.mks@gmail.com  
-🔗 LinkedIn  
+🔗 LinkedIn  - www.linkedin.com/in/shivambhardwaj2006
